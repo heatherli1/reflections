@@ -1,0 +1,3 @@
+What happened when I init git?  I really don't know.
+暂存区与工作目录和版本库有何不同？你认为它具有什么价值？
+放在工作目录的东西跟git没关系，但文件放在暂存区后，git就帮我们看着它了，提醒我们要commit
