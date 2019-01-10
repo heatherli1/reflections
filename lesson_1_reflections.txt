@@ -1,0 +1,10 @@
+I can know if the two files are different and the line number where the difference is.
+If I do something wrong, I can easily get back to an old version.
+Commiting manually put more responsibility to the programming, who should be sober and logic,
+while committing automatically is suitable for a addle programmer who always forgets to save his job,
+but it will be very difficult to find the right version later when he needs it.
+Git permitting us to save multiple files in one commit, because in programming, there are always more than one file 
+working together.
+How to use git log and git diff to look for the modification history of a file?
+- use git log to find the ID of two commits, then use git diff and the two ID to compare them.
+By using git, I can trace any change I have made, and find out the right version.
